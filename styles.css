@@ -39,6 +39,10 @@ body main {
     background-image: url(./profile-card-component-main/images/bg-pattern-card.svg);
 }
 
+.profile-section {
+    margin-bottom: 1rem;
+}
+
 .profile-section img {
     width: 80px;
     height: 80px;
